@@ -19,5 +19,3 @@ t.prettyPrint();
 console.log("Tree Balanced? " + t.isBalanced());
 
 console.log(t.preorder(), t.postorder(), t.inorder());
-
-for (;;);
